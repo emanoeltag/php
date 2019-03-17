@@ -2,6 +2,6 @@
 
 echo "Olá mundo!";
 
-echo "Olá teste de conflito";
+echo "Olá teste de conflito resolvido";
 
 ?>
